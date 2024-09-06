@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Eventre Hugo | Event Management Template</title>
-    <link>https://chaoqinrobotics.github.io/dd2025/tags/</link>
-    <description>Recent content in Tags on Eventre Hugo | Event Management Template</description>
+    <title>Tags on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</title>
+    <link>http://localhost:1313/dd2025/tags/</link>
+    <description>Recent content in Tags on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="https://chaoqinrobotics.github.io/dd2025/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dd2025/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/tags/business/</link>
+      <link>http://localhost:1313/dd2025/tags/business/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/tags/business/</guid>
+      <guid>http://localhost:1313/dd2025/tags/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Create</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/tags/create/</link>
+      <link>http://localhost:1313/dd2025/tags/create/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/tags/create/</guid>
+      <guid>http://localhost:1313/dd2025/tags/create/</guid>
       <description></description>
     </item>
     <item>
       <title>Events</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/tags/events/</link>
+      <link>http://localhost:1313/dd2025/tags/events/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/tags/events/</guid>
+      <guid>http://localhost:1313/dd2025/tags/events/</guid>
       <description></description>
     </item>
     <item>
       <title>Object</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/tags/object/</link>
+      <link>http://localhost:1313/dd2025/tags/object/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/tags/object/</guid>
+      <guid>http://localhost:1313/dd2025/tags/object/</guid>
       <description></description>
     </item>
     <item>
       <title>Planner</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/tags/planner/</link>
+      <link>http://localhost:1313/dd2025/tags/planner/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/tags/planner/</guid>
+      <guid>http://localhost:1313/dd2025/tags/planner/</guid>
       <description></description>
     </item>
     <item>
       <title>Upcoming</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/tags/upcoming/</link>
+      <link>http://localhost:1313/dd2025/tags/upcoming/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/tags/upcoming/</guid>
+      <guid>http://localhost:1313/dd2025/tags/upcoming/</guid>
       <description></description>
     </item>
   </channel>

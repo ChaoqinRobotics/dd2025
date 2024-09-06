@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Speaker on Eventre Hugo | Event Management Template</title>
-    <link>https://chaoqinrobotics.github.io/dd2025/speaker/</link>
-    <description>Recent content in Our Speaker on Eventre Hugo | Event Management Template</description>
+    <title>Our Speaker on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</title>
+    <link>http://localhost:1313/dd2025/speaker/</link>
+    <description>Recent content in Our Speaker on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="https://chaoqinrobotics.github.io/dd2025/speaker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2024 15:40:24 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/dd2025/speaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alex Franco</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-7/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-7/</guid>
+      <title>Vijay Kumar</title>
+      <link>http://localhost:1313/dd2025/speaker/speaker-7/</link>
+      <pubDate>Sun, 31 Mar 2024 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/dd2025/speaker/speaker-7/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Jeqlin Markus</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-3/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-3/</guid>
+      <title>Hugh H.-T. Liu</title>
+      <link>http://localhost:1313/dd2025/speaker/speaker-1/</link>
+      <pubDate>Sat, 30 Mar 2024 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/dd2025/speaker/speaker-1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Jessica Juli</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-1/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-1/</guid>
+      <title>Colin Jones</title>
+      <link>http://localhost:1313/dd2025/speaker/speaker-2/</link>
+      <pubDate>Sun, 29 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/dd2025/speaker/speaker-2/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>John Doe</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-4/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-4/</guid>
+      <title>Yuwei Wang</title>
+      <link>http://localhost:1313/dd2025/speaker/speaker-5/</link>
+      <pubDate>Sat, 28 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/dd2025/speaker/speaker-5/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Jonathan Brush</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-5/</link>
+      <title>Chao Qin</title>
+      <link>http://localhost:1313/dd2025/speaker/speaker-3/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-5/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jonathan Franco</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-2/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-2/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lossica Mix</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-6/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-6/</guid>
+      <guid>http://localhost:1313/dd2025/speaker/speaker-3/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mona Lissa</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-8/</link>
+      <link>http://localhost:1313/dd2025/speaker/speaker-8/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-8/</guid>
+      <guid>http://localhost:1313/dd2025/speaker/speaker-8/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shaohui Yang</title>
+      <link>http://localhost:1313/dd2025/speaker/speaker-4/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/dd2025/speaker/speaker-4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yunlong Songg</title>
+      <link>http://localhost:1313/dd2025/speaker/speaker-6/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/dd2025/speaker/speaker-6/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore&#xA;dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse.&lt;/p&gt;</description>
     </item>
   </channel>

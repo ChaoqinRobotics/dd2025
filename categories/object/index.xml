@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Object on Eventre Hugo | Event Management Template</title>
-    <link>https://chaoqinrobotics.github.io/dd2025/categories/object/</link>
-    <description>Recent content in Object on Eventre Hugo | Event Management Template</description>
+    <title>Object on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</title>
+    <link>http://localhost:1313/dd2025/categories/object/</link>
+    <description>Recent content in Object on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="https://chaoqinrobotics.github.io/dd2025/categories/object/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dd2025/categories/object/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elementum purus id ultrices.</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/blog/post-5/</link>
+      <link>http://localhost:1313/dd2025/blog/post-5/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/blog/post-5/</guid>
+      <guid>http://localhost:1313/dd2025/blog/post-5/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo conse&#xA;quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
   </channel>
