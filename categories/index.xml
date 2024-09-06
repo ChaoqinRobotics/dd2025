@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</title>
-    <link>http://localhost:1313/dd2025/categories/</link>
+    <link>https://chaoqinrobotics.github.io/dd2025/categories/</link>
     <description>Recent content in Categories on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/dd2025/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chaoqinrobotics.github.io/dd2025/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
-      <link>http://localhost:1313/dd2025/categories/business/</link>
+      <link>https://chaoqinrobotics.github.io/dd2025/categories/business/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/dd2025/categories/business/</guid>
+      <guid>https://chaoqinrobotics.github.io/dd2025/categories/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Creative</title>
-      <link>http://localhost:1313/dd2025/categories/creative/</link>
+      <link>https://chaoqinrobotics.github.io/dd2025/categories/creative/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/dd2025/categories/creative/</guid>
+      <guid>https://chaoqinrobotics.github.io/dd2025/categories/creative/</guid>
       <description></description>
     </item>
     <item>
       <title>Events</title>
-      <link>http://localhost:1313/dd2025/categories/events/</link>
+      <link>https://chaoqinrobotics.github.io/dd2025/categories/events/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/dd2025/categories/events/</guid>
+      <guid>https://chaoqinrobotics.github.io/dd2025/categories/events/</guid>
       <description></description>
     </item>
     <item>
       <title>Object</title>
-      <link>http://localhost:1313/dd2025/categories/object/</link>
+      <link>https://chaoqinrobotics.github.io/dd2025/categories/object/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/dd2025/categories/object/</guid>
+      <guid>https://chaoqinrobotics.github.io/dd2025/categories/object/</guid>
       <description></description>
     </item>
     <item>
       <title>Planner</title>
-      <link>http://localhost:1313/dd2025/categories/planner/</link>
+      <link>https://chaoqinrobotics.github.io/dd2025/categories/planner/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/dd2025/categories/planner/</guid>
+      <guid>https://chaoqinrobotics.github.io/dd2025/categories/planner/</guid>
       <description></description>
     </item>
     <item>
       <title>Upcoming</title>
-      <link>http://localhost:1313/dd2025/categories/upcoming/</link>
+      <link>https://chaoqinrobotics.github.io/dd2025/categories/upcoming/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/dd2025/categories/upcoming/</guid>
+      <guid>https://chaoqinrobotics.github.io/dd2025/categories/upcoming/</guid>
       <description></description>
     </item>
   </channel>
