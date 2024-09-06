@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Eventre Hugo | Event Management Template</title>
+    <link>https://demo.gethugothemes.com/eventre/site/categories/</link>
+    <description>Recent content in Categories on Eventre Hugo | Event Management Template</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/eventre/site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>https://demo.gethugothemes.com/eventre/site/categories/business/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/eventre/site/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creative</title>
+      <link>https://demo.gethugothemes.com/eventre/site/categories/creative/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/eventre/site/categories/creative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>https://demo.gethugothemes.com/eventre/site/categories/events/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/eventre/site/categories/events/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Object</title>
+      <link>https://demo.gethugothemes.com/eventre/site/categories/object/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/eventre/site/categories/object/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planner</title>
+      <link>https://demo.gethugothemes.com/eventre/site/categories/planner/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/eventre/site/categories/planner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upcoming</title>
+      <link>https://demo.gethugothemes.com/eventre/site/categories/upcoming/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/eventre/site/categories/upcoming/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
