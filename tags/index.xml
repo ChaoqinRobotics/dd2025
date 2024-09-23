@@ -4,51 +4,65 @@
     <title>Tags on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</title>
     <link>https://chaoqinrobotics.github.io/dd2025/tags/</link>
     <description>Recent content in Tags on ICRA2025 Workshop | Data-Driven Control &amp; Trajectory Optimization for Autonomy</description>
-    <generator>Hugo</generator>
-    <language>en</language>
+    <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="https://chaoqinrobotics.github.io/dd2025/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://chaoqinrobotics.github.io/dd2025/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Business</title>
+      <title>business</title>
       <link>https://chaoqinrobotics.github.io/dd2025/tags/business/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
       <guid>https://chaoqinrobotics.github.io/dd2025/tags/business/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Create</title>
+      <title>create</title>
       <link>https://chaoqinrobotics.github.io/dd2025/tags/create/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
       <guid>https://chaoqinrobotics.github.io/dd2025/tags/create/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Events</title>
+      <title>events</title>
       <link>https://chaoqinrobotics.github.io/dd2025/tags/events/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
       <guid>https://chaoqinrobotics.github.io/dd2025/tags/events/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Object</title>
+      <title>object</title>
       <link>https://chaoqinrobotics.github.io/dd2025/tags/object/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
       <guid>https://chaoqinrobotics.github.io/dd2025/tags/object/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Planner</title>
+      <title>planner</title>
       <link>https://chaoqinrobotics.github.io/dd2025/tags/planner/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
       <guid>https://chaoqinrobotics.github.io/dd2025/tags/planner/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Upcoming</title>
+      <title>upcoming</title>
       <link>https://chaoqinrobotics.github.io/dd2025/tags/upcoming/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
       <guid>https://chaoqinrobotics.github.io/dd2025/tags/upcoming/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
