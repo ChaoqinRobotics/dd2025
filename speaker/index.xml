@@ -9,59 +9,80 @@
     <lastBuildDate>Sun, 31 Mar 2024 15:40:24 +0600</lastBuildDate>
     <atom:link href="https://chaoqinrobotics.github.io/dd2025/speaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Jonathan P. How</title>
+      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-9/</link>
+      <pubDate>Sun, 31 Mar 2024 15:40:24 +0600</pubDate>
+      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Angela P. Schoellig</title>
+      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-8/</link>
+      <pubDate>Sat, 30 Mar 2024 15:40:24 +0600</pubDate>
+      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fei Gao</title>
+      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-10/</link>
+      <pubDate>Fri, 29 Mar 2024 15:40:24 +0600</pubDate>
+      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Antonio Loquercio</title>
+      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-11/</link>
+      <pubDate>Thu, 28 Mar 2024 15:40:24 +0600</pubDate>
+      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-11/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Vijay Kumar</title>
       <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-7/</link>
-      <pubDate>Sun, 31 Mar 2024 15:40:24 +0600</pubDate>
+      <pubDate>Wed, 27 Mar 2024 15:40:24 +0600</pubDate>
       <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-7/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugh H.-T. Liu</title>
       <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-1/</link>
-      <pubDate>Sat, 30 Mar 2024 15:40:24 +0600</pubDate>
+      <pubDate>Tue, 26 Mar 2024 15:40:24 +0600</pubDate>
       <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Colin Jones</title>
       <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-2/</link>
-      <pubDate>Sun, 29 Mar 2020 15:40:24 +0600</pubDate>
+      <pubDate>Mon, 25 Mar 2024 15:40:24 +0600</pubDate>
       <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Yuwei Wu</title>
       <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-5/</link>
-      <pubDate>Sat, 28 Mar 2020 15:40:24 +0600</pubDate>
+      <pubDate>Mon, 04 Mar 2024 15:40:24 +0600</pubDate>
       <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chao Qin</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-3/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shaohui Yang</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-4/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-4/</guid>
       <description></description>
     </item>
     <item>
       <title>Yunlong Song</title>
       <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-6/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <pubDate>Sun, 03 Mar 2024 15:40:24 +0600</pubDate>
       <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-6/</guid>
       <description></description>
     </item>
     <item>
-      <title>TBD</title>
-      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-8/</link>
-      <pubDate>Thu, 14 Mar 2013 15:40:24 +0600</pubDate>
-      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-8/</guid>
+      <title>Shaohui Yang</title>
+      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-4/</link>
+      <pubDate>Sat, 02 Mar 2024 15:40:24 +0600</pubDate>
+      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chao Qin</title>
+      <link>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-3/</link>
+      <pubDate>Fri, 01 Mar 2024 15:40:24 +0600</pubDate>
+      <guid>https://chaoqinrobotics.github.io/dd2025/speaker/speaker-3/</guid>
       <description></description>
     </item>
   </channel>
