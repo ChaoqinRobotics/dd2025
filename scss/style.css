@@ -192,7 +192,7 @@ button:hover {
   background: #ffa300e6; }
 
 .bg-banner-one {
-  background: url(../images/background-icra2025/datadriven_uav.jpg) no-repeat;
+  background: url(../images/background-icra2025/data_driven.jpg) no-repeat;
   background-size: cover;
   background-position: center center; }
 
@@ -495,7 +495,7 @@ select.form-control:not([size]):not([multiple]) {
     .main-nav {
       position: relative; } }
   .main-nav .navbar-brand {
-    padding: 35px 40px 35px 50px;
+    padding: 25px 35px 25px 40px;
     border-right: 1px solid #e5e5e5; }
     @media (max-width: 1200px) {
       .main-nav .navbar-brand {
@@ -512,7 +512,7 @@ select.form-control:not([size]):not([multiple]) {
       color: #222222;
       padding-left: 8px;
       padding-right: 20px;
-      font-size: 1.06rem;
+      font-size: 1.0625rem;
       font-family: "Montserrat", sans-serif; }
       @media (max-width: 1352px) {
         .main-nav .navbar-nav .nav-item .nav-link {
@@ -718,17 +718,17 @@ select.form-control:not([size]):not([multiple]) {
     .cta-subscribe .subscribe-button {
       margin-bottom: 30px; } }
 .banner {
-  padding: 250px 0 150px;
+  padding: 150px 0 120px;
   position: relative; }
   @media (max-width: 1024px) {
     .banner {
-      padding: 100px 0; } }
+      padding: 10px 0; } }
   .banner .block {
     position: relative;
     z-index: 10; }
     .banner .block .timer .syotimer-cell {
       margin-right: 25px;
-      margin-bottom: 33px;
+      margin-bottom: 30px;
       display: inline-block; }
       @media (max-width: 575px) {
         .banner .block .timer .syotimer-cell {
@@ -788,13 +788,25 @@ select.form-control:not([size]):not([multiple]) {
       @media (max-width: 400px) {
         .banner .block h2 {
           font-size: 2.3rem; } }
+    .banner .block h3 {
+      font-size: 2.5rem;
+      color: #ffa300e6;
+      font-weight: bold;
+      text-shadow: 3.5px 6.062px 0px rgba(0, 0, 0, 0.1);
+      font-style: italic; }
+      @media (max-width: 767px) {
+        .banner .block h3 {
+          font-size: 3.2rem; } }
+      @media (max-width: 400px) {
+        .banner .block h3 {
+          font-size: 2.3rem; } }
     .banner .block h6 {
       color: #fff;
       font-weight: 400;
       margin-bottom: 50px; }
 
 .banner-two {
-  padding: 250px 0 150px;
+  padding: 150px 0 120px;
   position: relative;
   overflow: hidden; }
   .banner-two .block h1 {
@@ -1668,7 +1680,7 @@ select.form-control:not([size]):not([multiple]) {
   display: flex;
   justify-content: center; }
   .banner-full .image img {
-    height: 625px; }
+    height: 400px; }
   @media (max-width: 767px) {
     .banner-full .image {
       margin-bottom: 30px; } }
@@ -1749,7 +1761,7 @@ select.form-control:not([size]):not([multiple]) {
   background: #ffa300e6; }
 
 .single-speaker .block {
-  padding-bottom: 70px;
+  padding-bottom: 50px;
   border-bottom: 1px solid #e5e5e5; }
   .single-speaker .block .image-block {
     background: #fff;
@@ -1766,7 +1778,7 @@ select.form-control:not([size]):not([multiple]) {
     margin-bottom: 20px; }
     .single-speaker .block .content-block .profession p {
       color: #ffa300e6;
-      font-size: 0.9375rem; }
+      font-size: 1.25rem; }
   .single-speaker .block .content-block .details {
     margin-bottom: 35px; }
     .single-speaker .block .content-block .details p {
@@ -1889,7 +1901,7 @@ select.form-control:not([size]):not([multiple]) {
       font-family: FontAwesome; }
 
 .single-organizer .block {
-  padding-bottom: 70px;
+  padding-bottom: 50px;
   border-bottom: 1px solid #e5e5e5; }
   .single-organizer .block .image-block {
     background: #fff;
@@ -1899,7 +1911,7 @@ select.form-control:not([size]):not([multiple]) {
       width: 100%; }
     @media (max-width: 767px) {
       .single-organizer .block .image-block {
-        margin-bottom: 30px; } }
+        margin-bottom: 20px; } }
   .single-organizer .block .content-block .name h3 {
     font-weight: 400; }
   .single-organizer .block .content-block .profession {
