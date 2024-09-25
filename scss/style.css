@@ -1117,7 +1117,7 @@ select.form-control:not([size]):not([multiple]) {
           .schedule .schedule-contents .schedule-item ul li .time {
             width: 48%; } }
       .schedule .schedule-contents .schedule-item ul li .speaker {
-        width: 30%; }
+        width: 40%; }
         @media (max-width: 991px) {
           .schedule .schedule-contents .schedule-item ul li .speaker {
             width: 50%; } }
@@ -1127,17 +1127,16 @@ select.form-control:not([size]):not([multiple]) {
         @media (max-width: 575px) {
           .schedule .schedule-contents .schedule-item ul li .speaker {
             width: 50%; } }
-        @media (max-width: 575px) {
-          .schedule .schedule-contents .schedule-item ul li .speaker img {
-            display: none; } }
+        .schedule .schedule-contents .schedule-item ul li .speaker img {
+          width: 10%; }
+          @media (max-width: 575px) {
+            .schedule .schedule-contents .schedule-item ul li .speaker img {
+              display: none; } }
       .schedule .schedule-contents .schedule-item ul li .subject {
-        width: 30%; }
+        width: 35%; }
         @media (max-width: 1200px) {
           .schedule .schedule-contents .schedule-item ul li .subject {
             display: none; } }
-      @media (max-width: 767px) {
-        .schedule .schedule-contents .schedule-item ul li .venue {
-          display: none; } }
   .schedule .schedule-contents .schedule-item li.headings {
     padding: 22px 40px;
     background: #ffa300e6; }
@@ -1254,7 +1253,7 @@ select.form-control:not([size]):not([multiple]) {
           .schedule.two .schedule-contents .schedule-item ul li .time {
             width: 48%; } }
       .schedule.two .schedule-contents .schedule-item ul li .speaker {
-        width: 30%; }
+        width: 35%; }
         @media (max-width: 991px) {
           .schedule.two .schedule-contents .schedule-item ul li .speaker {
             width: 50%; } }
@@ -1265,14 +1264,9 @@ select.form-control:not([size]):not([multiple]) {
           .schedule.two .schedule-contents .schedule-item ul li .speaker {
             width: 50%; } }
       .schedule.two .schedule-contents .schedule-item ul li .subject {
-        width: 30%; }
+        width: 40%; }
         @media (max-width: 1200px) {
           .schedule.two .schedule-contents .schedule-item ul li .subject {
-            display: none; } }
-      .schedule.two .schedule-contents .schedule-item ul li .venue {
-        width: 18.6%; }
-        @media (max-width: 767px) {
-          .schedule.two .schedule-contents .schedule-item ul li .venue {
             display: none; } }
   .schedule.two .schedule-contents .schedule-item li.headings {
     padding: 25px 0;
